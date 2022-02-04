@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="0.151848">
+    <testcase classname="Free CRM Application testing" name="Search a task" time="0.15101">
+        <system-out><![CDATA[Given This is a search task test case.......................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Free CRM Application testing" name="validate  a report" time="0.000504">
+        <system-out><![CDATA[Given This is a report  test case...........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Free CRM Application testing" name="Application logout" time="0.000334">
+        <system-out><![CDATA[Given This is a logout test case............................................passed
+]]></system-out>
+    </testcase>
+</testsuite>

@@ -1,0 +1,168 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 277700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks_StepDefinition.setUP()"
+            }
+          }
+        ],
+        "line": 41,
+        "name": "Search a task",
+        "description": "",
+        "id": "free-crm-application-testing;search-a-task",
+        "after": [
+          {
+            "result": {
+              "duration": 179500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks_StepDefinition.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 150552900,
+              "status": "passed"
+            },
+            "line": 42,
+            "name": "This is a search task test case",
+            "match": {
+              "location": "TaggingStepDefinition.this_is_a_search_task_test_case()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 40,
+            "name": "@End2End"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 235300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks_StepDefinition.setUP()"
+            }
+          }
+        ],
+        "line": 61,
+        "name": "validate  a report",
+        "description": "",
+        "id": "free-crm-application-testing;validate--a-report",
+        "after": [
+          {
+            "result": {
+              "duration": 219500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks_StepDefinition.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 49400,
+              "status": "passed"
+            },
+            "line": 62,
+            "name": "This is a report  test case",
+            "match": {
+              "location": "TaggingStepDefinition.this_is_a_report_test_case()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 60,
+            "name": "@End2End"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 249600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks_StepDefinition.setUP()"
+            }
+          }
+        ],
+        "line": 65,
+        "name": "Application logout",
+        "description": "",
+        "id": "free-crm-application-testing;application-logout",
+        "after": [
+          {
+            "result": {
+              "duration": 44100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks_StepDefinition.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 40800,
+              "status": "passed"
+            },
+            "line": 66,
+            "name": "This is a logout test case",
+            "match": {
+              "location": "TaggingStepDefinition.this_is_a_logout_test_case()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 64,
+            "name": "@End2End"
+          }
+        ]
+      }
+    ],
+    "name": "Free CRM Application testing",
+    "description": "",
+    "id": "free-crm-application-testing",
+    "keyword": "Feature",
+    "uri": "C:/Selenium_Workspace/FreeCrmBDDFramework1/src/main/java/Features/tagging.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@FunctionalTest"
+      }
+    ]
+  }
+]
